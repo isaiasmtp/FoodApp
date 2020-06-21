@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">vapvup</string>
+    <string name="facebook_app_id">264976177899923</string>
+    <string name="fb_login_protocol_scheme">fb264976177899923</string>
 </resources>
